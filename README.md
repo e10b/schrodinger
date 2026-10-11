@@ -1,4 +1,4 @@
-# shrodinger
+# schrodinger
 
 Standalone TDSE / “atom” playground built on **[wgfx](https://github.com/Vyscosity/wgfx)** (WebGPU + SDL3) and **Dear ImGui**.
 
